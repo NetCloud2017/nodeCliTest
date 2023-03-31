@@ -1,0 +1,12 @@
+{
+  "name": "testcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ccli start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
